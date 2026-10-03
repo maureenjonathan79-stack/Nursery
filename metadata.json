@@ -1,0 +1,6 @@
+{
+  "name": "Colors Adventure with Mia & Leo",
+  "description": "An interactive preschool educational 3D animation where Mia and Leo guide young learners through a magical classroom to explore colors, toys, balloons, and rainbows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
